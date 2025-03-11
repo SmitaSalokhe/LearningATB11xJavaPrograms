@@ -1,8 +1,6 @@
 package ex_01_Java_Basic;
 
-import javax.swing.*;
-
-public class Single_Multi_Comments
+public class Lab002_Single_Multi_Comments
 {
     public static void main(String[] args) {
 
