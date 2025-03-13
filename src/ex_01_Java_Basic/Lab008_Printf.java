@@ -1,6 +1,6 @@
 package ex_01_Java_Basic;
 
-public class L008_Printf
+public class Lab008_Printf
 {
     public static void main(String[] args) {
         int a= 10;
