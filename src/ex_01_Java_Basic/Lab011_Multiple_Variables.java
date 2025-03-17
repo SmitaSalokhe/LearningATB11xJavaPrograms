@@ -1,6 +1,6 @@
 package ex_01_Java_Basic;
 
-public class L011_Multiple_Variables
+public class Lab011_Multiple_Variables
 {
     public static void main(String[] args) {
 

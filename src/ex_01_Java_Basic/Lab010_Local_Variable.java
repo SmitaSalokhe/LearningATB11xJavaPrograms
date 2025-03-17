@@ -1,6 +1,6 @@
 package ex_01_Java_Basic;
 
-public class L010_Local_Variable
+public class Lab010_Local_Variable
 {
     public static void main(String[] args)
     {
