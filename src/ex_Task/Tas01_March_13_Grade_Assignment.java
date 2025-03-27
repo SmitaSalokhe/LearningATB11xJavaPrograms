@@ -15,7 +15,7 @@ public class Tas01_March_13_Grade_Assignment {
         System.out.println("Enter your marks");
         int marks = sc.nextInt();
 
-        String result = (marks < 0 || marks > 100) ? "Enter a valide marks" :
+        String result = (marks < 0 || marks > 101) ? "Enter a valid marks" :
                 (marks > 0 && marks <= 59) ? "F" :
                 (marks >= 60 && marks <= 69) ? "D" :
                 (marks >= 70 && marks <= 79) ? "C" :
