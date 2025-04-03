@@ -1,4 +1,4 @@
-package ex_Increment_Decrement_Operator;
+package ex_08_Increment_Decrement_Operator;
 
 public class Lab025_Example2
 {

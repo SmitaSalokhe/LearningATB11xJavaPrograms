@@ -1,4 +1,4 @@
-package ex_If_Condition;
+package ex_07_If_Condition;
 
 public class Lab030_Interview_Haha_Hoho
 {
