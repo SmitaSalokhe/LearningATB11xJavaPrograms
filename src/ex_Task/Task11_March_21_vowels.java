@@ -19,7 +19,7 @@ public class Task11_March_21_vowels
                 System.out.println(a+ " This is vowel");
             }
             else {
-                System.out.println(a+ " This is not consonants");
+                System.out.println(a+ " This is consonants");
             }
         }
 

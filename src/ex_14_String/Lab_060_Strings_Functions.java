@@ -1,6 +1,4 @@
-package ex_13_String;
-
-import java.util.Locale;
+package ex_14_String;
 
 public class Lab_060_Strings_Functions
 {
