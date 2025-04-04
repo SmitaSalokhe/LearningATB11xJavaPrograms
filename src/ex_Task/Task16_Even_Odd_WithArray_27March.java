@@ -1,6 +1,6 @@
 package ex_Task;
 
-public class Task016_Even_Odd_WithArray_27March
+public class Task16_Even_Odd_WithArray_27March
 {
     public static void main(String[] args)
     {

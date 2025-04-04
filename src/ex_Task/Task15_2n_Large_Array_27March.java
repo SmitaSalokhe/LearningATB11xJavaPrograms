@@ -2,7 +2,7 @@ package ex_Task;
 
 import java.util.Arrays;
 
-public class Task015_2n_Large_Array_27March
+public class Task15_2n_Large_Array_27March
 {
     public static void main(String[] args) {
         int numbers[]={10,80,30,48,50,66};
