@@ -1,6 +1,6 @@
 package ex_16_Arrays;
 
-public class Lab_066_ArraysExample
+public class Lab_066_Arraysdeclaration
 {
     public static void main(String[] args) {
 
