@@ -1,4 +1,4 @@
-package ex_OOPS;
+package ex_18_OOPS;
 
 public class Lab_081_Class_creation_Ruls
 {

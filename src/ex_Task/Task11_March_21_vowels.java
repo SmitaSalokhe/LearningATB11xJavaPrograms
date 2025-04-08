@@ -1,7 +1,5 @@
 package ex_Task;
 
-import java.util.Scanner;
-
 public class Task11_March_21_vowels
 {
     public static void main(String[] args)

@@ -1,6 +1,5 @@
 package ex_Task;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 
