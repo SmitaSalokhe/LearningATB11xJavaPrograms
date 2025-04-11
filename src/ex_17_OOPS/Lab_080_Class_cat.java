@@ -1,4 +1,4 @@
-package ex_18_OOPS;
+package ex_17_OOPS;
 
 public class Lab_080_Class_cat
 {

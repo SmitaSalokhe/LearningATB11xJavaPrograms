@@ -1,4 +1,4 @@
-package ex_17_2D_Array;
+package ex_16_2D_Array;
 
 public class LAb_075_2DArray_Iterate_ForLoop
 {

@@ -1,4 +1,4 @@
-package ex_17_2D_Array;
+package ex_16_2D_Array;
 
 public class Lab_074_2DArray_declaration
 {

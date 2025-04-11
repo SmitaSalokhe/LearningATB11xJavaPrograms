@@ -1,4 +1,4 @@
-package ex_19_Constructor;
+package ex_18_Constructor;
 
 public class Lab_082_constructor
 {
