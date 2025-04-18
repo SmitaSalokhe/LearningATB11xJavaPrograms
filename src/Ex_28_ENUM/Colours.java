@@ -1,0 +1,21 @@
+package Ex_28_ENUM;
+
+public enum Colours
+{
+    RED ("#FF0000"),
+    GREEN("#61FF33"),
+    BLUE("#3377FF"),
+    YELLOW("#4477FF");
+
+    private String hexcode;
+
+        Colours(String hexcode){
+            this.hexcode= hexcode;
+    }
+
+    String getHexcode(){
+            return this.hexcode;
+    }
+}
+
+
