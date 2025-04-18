@@ -1,4 +1,4 @@
-package Ex_27_Static;
+package ex_27_Static;
 
 public class Lab_102_Static_Ex2
 {

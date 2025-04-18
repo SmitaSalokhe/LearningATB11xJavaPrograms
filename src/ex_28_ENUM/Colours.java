@@ -1,4 +1,4 @@
-package Ex_28_ENUM;
+package ex_28_ENUM;
 
 public enum Colours
 {
