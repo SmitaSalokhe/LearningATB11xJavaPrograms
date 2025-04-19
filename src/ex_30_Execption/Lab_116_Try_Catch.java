@@ -1,6 +1,6 @@
 package ex_30_Execption;
 
-public class Lab_166_Try_Catch
+public class Lab_116_Try_Catch
 {
     public static void main(String[] args) {
         int b= 10;
