@@ -4,6 +4,7 @@ public class Lab_082_constructor
 {
 
     public static void main(String[] args) {
+
         automation a1= new automation();
     }
 }

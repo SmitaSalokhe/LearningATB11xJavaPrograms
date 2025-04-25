@@ -1,6 +1,6 @@
 package ex_30_Execption;
 
-public class Lab_350_Throw
+public class Lab_133_Throw
 {
     public static void main(String[] args) {
 
