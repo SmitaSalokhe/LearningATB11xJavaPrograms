@@ -29,5 +29,9 @@ public class Lab_136_ArrayList
         System.out.println(l3);
         System.out.println(l3.isEmpty());
 
+        ArrayList a1= new ArrayList();
+        a1.add("Pranay");
+        System.out.println(a1);
+
     }
 }
